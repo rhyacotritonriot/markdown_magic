@@ -15,4 +15,4 @@ _bold isn't working, maybe italics will?_
 [let's see some cool photos](http://www.instagram.com/christopher.cousins.wildlife)
 
 #### that's a cool photo but now let's see some science without context ####
-[![science without context is still science, and still cool](/populations.var.treefile.jpg)]
+![science without context is still science, and still cool](/populations.var.treefile.jpg)
