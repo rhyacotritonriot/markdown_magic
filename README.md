@@ -7,3 +7,5 @@
 # At the very least it's practicing #
 
 **Turns out that less #'s actually means bigger, who would've thought**
+
+_bold isn't working, maybe italics will?_
