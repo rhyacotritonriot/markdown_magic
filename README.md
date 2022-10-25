@@ -12,4 +12,4 @@ _bold isn't working, maybe italics will?_
 
 *looks like italics does work* so that's cool I guess but how **cool** would it bee if bold worked too
 
-[let's see some cool photos](www.instagram.com/christopher.cousins.wildlife)
+[let's see some cool photos](http://www.instagram.com/christopher.cousins.wildlife)
